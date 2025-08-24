@@ -39,19 +39,33 @@ Clients post jobs as **on-chain bounties** with locked escrow.
 ⚡ Features We Added
 
 Job Posting (Bounty Creation)
+
 Clients can create jobs with details (title, description, budget).
+
 Payment is locked into the smart contract escrow.
+
 Freelancer Application
+
 Freelancers can apply/submit work against a job ID.
+
 Keeps track of multiple applicants.
+
 Escrow & Payment Release.
+
 Client’s funds are locked until job completion.
+
 Funds are automatically released to the freelancer upon approval.
+
 Transparency & Trust
+
 All transactions are recorded on-chain.
+
 No middleman fees, everything is trustless.
+
 Dispute Handling (Basic version)
+
 If the client rejects the work, escrow holds funds.
+
 Manual/DAO-based arbitration could be added later.
 
 🔑 Prerequisites 
